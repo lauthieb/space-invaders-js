@@ -1,0 +1,21 @@
+{
+  "name": "space-invaders-js",
+  "homepage": "https://github.com/lauthieb/space-invaders-js",
+  "authors": [
+    "Laurent THIEBAULT <thiebault.laurent@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser-dist": "*"
+  }
+}
